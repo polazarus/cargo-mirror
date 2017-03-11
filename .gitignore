@@ -1,0 +1,4 @@
+__pycache__/
+/build/
+/dist/
+/cargo_mirror.egg-info/
